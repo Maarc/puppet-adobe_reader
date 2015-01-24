@@ -3,7 +3,7 @@
 # Examples
 #
 #  include adobe_reader
-class adobe_reader($version='11.0.06') {
+class adobe_reader($version='11.0.10') {
 
   $_version = regsubst($version, '\.', '', 'G')
 
